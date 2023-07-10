@@ -1,0 +1,2 @@
+my redirect file 
+okay
